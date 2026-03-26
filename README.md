@@ -1,4 +1,4 @@
-#This project is designed with 'Privacy by Design.' Here is how the code directly complies with four key sections of the IT Act:
+# This project is designed with 'Privacy by Design.' Here is how the code directly complies with four key sections of the IT Act:
 
 1. Section 43: No Unauthorized Access
 The Law: We cannot access a user’s hardware (like a webcam) without their permission.
