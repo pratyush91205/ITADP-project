@@ -1,4 +1,4 @@
-my project is designed with 'Privacy by Design.' Here is how the code directly complies with four key sections of the IT Act:"
+#This project is designed with 'Privacy by Design.' Here is how the code directly complies with four key sections of the IT Act:
 
 1. Section 43: No Unauthorized Access
 The Law: We cannot access a user’s hardware (like a webcam) without their permission.
@@ -26,9 +26,4 @@ The Law: We cannot share personal data with third parties (like cloud servers) w
 
 Code Proof: Point to the import statements at the very top.
 
-
-Shutterstock
-Explore
-Explanation: "All my imports (cv2, numpy, mediapipe) are strictly for local math and video processing. There are zero networking or internet modules in the script. The system runs 100% offline on my laptop, making it physically impossible for the code to secretly send user data to the cloud."
-
-Would you like me to format this into a short, 1-page summary sheet that you can print and hand directly to your professor during the evaluation?
+Explanation: "All my imports (cv2, numpy, mediapipe) are strictly for local math and video processing. There are zero networking or internet modules in the script. The system runs 100% offline on my laptop, making it physically impossible for the code to secretly send user data to the cloud.
