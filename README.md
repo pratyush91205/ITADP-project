@@ -3,7 +3,7 @@
 ## 1. Section 43: No Unauthorized Access
 The Law: We cannot access a user’s hardware (like a webcam) without their permission.
 
-Code Proof: Point to cap = cv2.VideoCapture(0).
+**Code Proof: Point to cap = cv2.VideoCapture(0).**
 
 Explanation: "Before the camera ever turns on, the code stops and asks the user to type 'Y' to grant access. If they say no, the program exits. We never access the webcam secretly in the background."
 
